@@ -8,7 +8,7 @@ packages:
   gitUsername: PoojaAnandGit
   gitBranch: main
 services:
-- serviceName: project.testextprj.integrations:e111
+- serviceName: project.testextprj.integrations:testedge1
   packages:
   - name: TestExtPrjProject
     version: "1.0"
